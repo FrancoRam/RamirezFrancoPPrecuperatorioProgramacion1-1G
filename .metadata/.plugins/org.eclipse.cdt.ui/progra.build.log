@@ -1,0 +1,7 @@
+01:28:08 **** Incremental Build of configuration Debug for project progra ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\progra.o" "..\\src\\progra.c" 
+gcc -o progra.exe "src\\funcionesBasic1.o" "src\\progra.o" 
+
+01:28:09 Build Finished. 0 errors, 0 warnings. (took 1s.258ms)
+

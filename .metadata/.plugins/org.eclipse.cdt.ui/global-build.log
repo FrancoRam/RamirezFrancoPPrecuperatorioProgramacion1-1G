@@ -1,0 +1,14 @@
+01:27:44 **** Rebuild of configuration Debug for project progra ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\progra.o" "..\\src\\progra.c" 
+..\src\progra.c: In function 'main':
+..\src\progra.c:26:7: warning: unused variable 'alumno' [-Wunused-variable]
+  char alumno[10]="ramirez";
+       ^~~~~~
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\funcionesBasic1.o" "..\\src\\funcionesBasic1.c" 
+gcc -o progra.exe "src\\funcionesBasic1.o" "src\\progra.o" 
+Info: Nothing to build for progra
+01:28:08 **** Incremental Build of configuration Debug for project progra ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\progra.o" "..\\src\\progra.c" 
+gcc -o progra.exe "src\\funcionesBasic1.o" "src\\progra.o" 
