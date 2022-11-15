@@ -1,14 +1,25 @@
-01:27:44 **** Rebuild of configuration Debug for project progra ****
+22:03:02 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\progra.o" "..\\src\\progra.c" 
-..\src\progra.c: In function 'main':
-..\src\progra.c:26:7: warning: unused variable 'alumno' [-Wunused-variable]
-  char alumno[10]="ramirez";
-       ^~~~~~
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\funcionesBasic1.o" "..\\src\\funcionesBasic1.c" 
-gcc -o progra.exe "src\\funcionesBasic1.o" "src\\progra.o" 
-Info: Nothing to build for progra
-01:28:08 **** Incremental Build of configuration Debug for project progra ****
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
+Info: Nothing to build for recuperatorioProgramacion1
+22:04:07 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\progra.o" "..\\src\\progra.c" 
-gcc -o progra.exe "src\\funcionesBasic1.o" "src\\progra.o" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
+22:04:52 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
+22:07:34 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
+22:09:12 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
+22:15:20 **** Incremental Build of configuration Debug for project recuperatorioProgramacion1 ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\recuperatorioProgramacion1.o" "..\\src\\recuperatorioProgramacion1.c" 
+gcc -o recuperatorioProgramacion1.exe "src\\recuperatorioProgramacion1.o" 
